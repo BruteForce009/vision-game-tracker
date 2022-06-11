@@ -1,2 +1,0 @@
-# vision-game-tracker
-Here we are building a computer vision based game tracking system. It is a simple game in which we hit the target in the form of colored circles of varying size, with a ball. The game is operated via voice, which is processed using Google’s API. A microcontroller unit tracks and processes the gameplay using input from a camera connected to it. The score is registered on a server and also communicated to the player through a speaker.
